@@ -14,6 +14,10 @@
     - 일별 & 국가별 코로나 발생건수(brokenLineExam_02)
     - 결재금액 & 팁의 이중축 표현(brokenLineExam_03)
   - 히스토그램
+    - Totalbill & tip에 대한 산전도그래프(histogramExam_01)
+    - 각 키에 따른 산전도그래프(거인국/소인국)(histogramExam_02)
+    - Totalbill & tip에 대한 산전도그래프(histogramExam_03)
+    - Totalbill & tip에 대한 산전도그래프(histogramExam_04)
   - 산전도 그래프
 
 
