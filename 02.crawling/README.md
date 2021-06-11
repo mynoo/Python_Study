@@ -1,4 +1,4 @@
-# 파일 설명
+# Web crawling
 
 - 각 치킨 매장의 지점 주소를 웹 페이지에서 크롤링
   - 각 크롤링 한 파일들을 allstore.csv 파일에 종합(chickenConcat.py 파일에서 실행)
