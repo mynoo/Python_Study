@@ -16,10 +16,13 @@
   - 히스토그램
     - Totalbill & tip에 대한 산전도그래프(histogramExam_01)
     - 각 키에 따른 산전도그래프(거인국/소인국)(histogramExam_02)
-    - Totalbill & tip에 대한 산전도그래프(histogramExam_03)
-    - Totalbill & tip에 대한 산전도그래프(histogramExam_04)
+    - 각 키에 따른 산전도그래프(거인국/소인국 한 그래프에 표시)(histogramExam_03)
+    - 각 키에 따른 산전도그래프(남/녀 한 그래프에 표시)(histogramExam_04)
   - 산전도 그래프
-
+    - 엔진 크기별 주행 마일수(scatterPlotExam_01)
+    - 엔진 크기별 주행 마일수(전륜,사륜,후륜)(scatterPlotExam_02)
+    - 엔진 크기별 주행 마일수(각 축에 그래프 추가)(scatterPlotExam_03)
+    - 엔진 크기별 주행 마일수(값에 따른 원의 크기)(scatterPlotExam_04)
 
 
 
