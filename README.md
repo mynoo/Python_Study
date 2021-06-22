@@ -3,13 +3,13 @@
 
 <br />
 <p align="center">
-    <img src="./logo.png" alt="Logo" width="600" height="250">
+    <img src="./logo.png" alt="Logo" width="600" height="300">
 
 
-  <h3 align="center">조민우의 Java Study</h3>
+  <h3 align="center">조민우의 Python Study</h3>
 
   <p align="center">
-    🏃‍♂️기초부터 개념을 다져가며 꾸준한 Java 지식 습득!
+    🏃‍♂️프로그래밍 언어의 만능 소스!
 
 
   </p>
@@ -20,7 +20,7 @@
 
 ## 🚧 개발 환경
 
-Windows 10, Eclipse, JavaSE-1.8(zulu15)
+Windows 10, PyCharm 2021.1.1, Python 3.9.5
 
 
 
