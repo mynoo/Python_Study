@@ -27,9 +27,13 @@ Windows 10, PyCharm 2021.1.1, Python 3.9.5
 <!-- CONTRIBUTING -->
 ## 📄 파일 구성
 
-- Java Study - 다양한 함수를 이용한 예제 풀이
-
-- Concept summary - JAVA를 공부하면서 몰랐던 점과 요약정리에 대한 Summary 정리
+- 01.example - Data를 이용한 다양한 차트 구현
+- 02.crawling - 웹 사이트 크롤링
+- 03.map_visual - 데이터의 map 시각화
+- 04.wordcloud - 이미지와 데이트를 이용한 워드 클라우드
+- 05.public_data - 종합 예제(차트, 워드클라우드)
+- data - 예제에 필요한 각종 데이터 파일
+- Concept summary - Python을 공부하면서 몰랐던 점과 요약정리에 대한 Summary 정리
 
 
 
